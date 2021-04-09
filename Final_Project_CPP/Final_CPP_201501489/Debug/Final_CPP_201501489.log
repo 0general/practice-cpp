@@ -1,0 +1,5 @@
+﻿  Manager.cpp
+C:\Users\User\source\repos\Final_CPP_201501489\Final_CPP_201501489\Manager.cpp(184,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\source\repos\Final_CPP_201501489\Final_CPP_201501489\Manager.h(33,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\source\repos\Final_CPP_201501489\Final_CPP_201501489\Manager.cpp(76): message : 컴파일되는 함수 템플릿 인스턴스화 'void Manager::print_vector<Burger>(std::vector<Burger,std::allocator<Burger>> &)'에 대한 참조를 확인하세요.
+  Final_CPP_201501489.vcxproj -> C:\Users\User\source\repos\Final_CPP_201501489\Debug\Final_CPP_201501489.exe

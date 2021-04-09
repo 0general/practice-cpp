@@ -1,0 +1,11 @@
+﻿  miniShopping_Project3.cpp
+  Product.cpp
+  ShoppingManager.cpp
+C:\Users\User\source\repos\miniShopping_Project3\miniShopping_Project3\ShoppingManager.cpp(158,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\source\repos\miniShopping_Project3\miniShopping_Project3\ShoppingManager.cpp(210,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\source\repos\miniShopping_Project3\miniShopping_Project3\ShoppingManager.cpp(221,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\source\repos\miniShopping_Project3\miniShopping_Project3\ShoppingManager.cpp(283,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\source\repos\miniShopping_Project3\miniShopping_Project3\ShoppingManager.cpp(293,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\source\repos\miniShopping_Project3\miniShopping_Project3\ShoppingManager.cpp(334,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+  miniShopping_Project3.vcxproj -> C:\Users\User\source\repos\miniShopping_Project3\Debug\miniShopping_Project3.exe
